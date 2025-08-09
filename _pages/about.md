@@ -31,6 +31,7 @@ SELECTED PUBLICATIONS
 - **Zonglin Li**, Zhaoxin Zhang, Peiqiang Liu, Qinglin Liu, Xin Sun. Toward Open-World Text-Driven Face Generation and Manipulation via StyleGAN3. *TCSVT 2024*
 - **Zonglin Li**, Zhaoxin Zhang, Shengfeng He, Quanling Meng, Shengping Zhang, Bineng Zhong, Rongrong Ji. Identity-Aware Variational Autoencoder for Face Swapping. *TCSVT 2024*
 - Quanling Meng, Qinglin Liu, **Zonglin Li**, Xiangyuan Lan, Shengping Zhang, Liqiang Nie. High-Resolution Image Harmonization with Adaptive-Interval Color Transformation. *NeurIPS 2024*
+- Qinglin Liu, Xiaoqian Lv, Quanling Meng, **Zonglin Li**, Xiangyuan Lan, Shuo Yang, Shengping Zhang, Liqiang Nie. Revisiting context aggregation for image matting. *ICML 2024*
 - Xiaoyu Han, Shunyuan Zheng, **Zonglin Li**, Chenyang Wang, Xin Sun, Quanling Meng. Shape-Guided Clothing Warping for Virtual Try-On. *ACM MM 2024*
 - Mingxiu Li, Wei Yu, Qinglin Liu, **Zonglin Li**, Ru Li, Bineng Zhong, Shengping Zhang. Hybrid Transformers with Attention-guided Spatial Embeddings for Makeup Transfer and Removal. *TCSVT 2024*
 
