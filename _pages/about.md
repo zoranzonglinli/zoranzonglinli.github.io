@@ -23,7 +23,7 @@ SELECTED PUBLICATIONS
 **2025**
 - Sizhe Zhao, Chenyang Wang, Weiyu Zhao, **Zonglin Li**, Ming Li, Shengping Zhang. REA-Listener: Real-Time Listening Head Generation with Dynamic Emotion Modeling and Flexible Modality Adaptation. *ACM MM 2025*
 - **Zonglin Li**, Xiaoqian Lv, Qinglin Liu, Quanling Meng, Xin Sun, Shengping Zhang. ProsodyTalker: 3D Visual Speech Animation via Prosody Decomposition.  *AAAI 2025 **Oral***
-- Xianzhu Liu, Xin Sun, Haozhe Xie, **Zonglin Li***, Ru Li, Shengping Zhang. Multi-view Consistent 3D Panoptic Scene Understanding. *AAAI 2025*
+- Xianzhu Liu, Xin Sun, Haozhe Xie, **Zonglin Li**, Ru Li, Shengping Zhang. Multi-view Consistent 3D Panoptic Scene Understanding. *AAAI 2025*
 - Wei Yu, **Zonglin Li**, Qinglin Liu, Xin Sun. OTPNet: ODE-inspired Tuning-free Proximal Network for Remote Sensing Image Fusion. *AAAI 2025*
 - Qinglin Liu, **Zonglin Li**, Xiaoqian Lv, Xin Sun, Ru Li, Shengping Zhang. Path-Adaptive Matting for Efficient Inference under Various Computational Cost Constraints. *AAAI 2025*
 
