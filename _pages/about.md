@@ -12,7 +12,7 @@ Hi! 👋 I am a Lecturer in the [School of Computing at Harbin Institute of Tech
 NEWS
 ======
 - 2025.07:   One co-author paper is accepted by *ACM MM 25*
-- 2025.01:   I joined the group of Prof. Shengping Zhang at *HIT*
+- 2025.01:   I join the group of Prof. Shengping Zhang at *HIT*
 - 2024.12:   One first-author paper is accepted as **Oral** by *AAAI 25*
 - 2024.12:   One corresponding-author paper is accepted by *AAAI 25*
 - 2024.12:   Two co-author papers are accepted by *AAAI 25*
