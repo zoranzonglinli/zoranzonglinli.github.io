@@ -38,7 +38,7 @@ SELECTED PUBLICATIONS
 **2023**
 - **Zonglin Li**, Shengping Zhang, Zhaoxin Zhang, Quanling Meng, Qinglin Liu, Huiyu Zhou. Attention Guided Domain Alignment for Conditional Face Image Generation. *CVIU 2023*
 - Quanling Meng, Shengping Zhang, **Zonglin Li**, Chenyang Wang, Weigang Zhang, Qingming Huang. Automatic Shadow Generation via Exposure Fusion. *TMM 2023*
-- Wei Yu, **Zonglin Li***, Qinglin Liu, Feng Jiang, Changyong Guo, Shengping Zhang. Scale-Aware Frequency Attention network for super-resolution. *Neurocomputing 2023*
+- Wei Yu, **Zonglin Li**, Qinglin Liu, Feng Jiang, Changyong Guo, Shengping Zhang. Scale-Aware Frequency Attention network for super-resolution. *Neurocomputing 2023*
 
 **2022**
 - Xiaoyu Han, Shengping Zhang, Qinglin Liu, **Zonglin Li**, Chenyang Wang. Progressive Limb-Aware Virtual Try-On. *ACM MM 2022*
