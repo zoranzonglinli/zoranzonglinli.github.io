@@ -11,6 +11,7 @@ Hi! 👋 I am a Lecturer in the [School of Computing at Harbin Institute of Tech
 
 NEWS
 ======
+- 2025.11:   One co-author paper is accepted as **Oral** by *AAAI 26*
 - 2025.07:   One co-author paper is accepted by *ACM MM 25*
 - 2025.01:   I join the group of Prof. Shengping Zhang at *HIT*
 - 2024.12:   One first-author paper is accepted as **Oral** by *AAAI 25*
@@ -21,6 +22,7 @@ SELECTED PUBLICATIONS
 ======
 
 **2025**
+- Weiyu Zhao, Chenyang Wang, Liangxiao Hu, **Zonglin Li**, Wei Yu, Shengping Zhang. DialoGen: Towards Dialog Gesture Generation via Identity-Decoupled Style Guidance in Interactive Diffusion Model. *AAAI 2026 **Oral*** 
 - Sizhe Zhao, Chenyang Wang, Weiyu Zhao, **Zonglin Li**, Ming Li, Shengping Zhang. REA-Listener: Real-Time Listening Head Generation with Dynamic Emotion Modeling and Flexible Modality Adaptation. *ACM MM 2025*
 - **Zonglin Li**, Xiaoqian Lv, Qinglin Liu, Quanling Meng, Xin Sun, Shengping Zhang. ProsodyTalker: 3D Visual Speech Animation via Prosody Decomposition.  *AAAI 2025 **Oral***
 - Xianzhu Liu, Xin Sun, Haozhe Xie, **Zonglin Li**, Ru Li, Shengping Zhang. Multi-view Consistent 3D Panoptic Scene Understanding. *AAAI 2025*
