@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 👋 I am a Lecturer in the [School of Computing at Harbin Institute of Technology](https://computing.hit.edu.cn/), working with Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping). I received my Ph.D. from [Harbin Institute of Technology](https://www.hit.edu.cn/) under the supervision of Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping), and my M.S. from the [University of Pittsburgh](https://www.engineering.pitt.edu/) under the supervision of Prof. [Zhihong Mao](https://www.engineering.pitt.edu/people/faculty/zhi-hong-mao/). My research focuses on ***Multi-modal Learning***, ***Digital Humans***, ***Motion Synthesis and Video Generation***, aiming to advance AI techniques for cross-modal perception, realistic virtual human generation, and immersive content creation.
+Hi! 👋 I am a Lecturer in the [School of Computing at Harbin Institute of Technology](https://computing.hit.edu.cn/), working with Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping). I received my Ph.D. from [Harbin Institute of Technology](https://www.hit.edu.cn/) under the supervision of Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping), and my M.S. from the [University of Pittsburgh](https://www.engineering.pitt.edu/) under the supervision of Prof. [Zhihong Mao](https://www.engineering.pitt.edu/people/faculty/zhi-hong-mao/). I also serve as a ***master's supervisor***, guiding graduate students in their research. My research focuses on ***Multi-modal Learning***, ***Digital Humans***, ***Motion Synthesis and Video Generation***, aiming to advance AI techniques for cross-modal perception, realistic virtual human generation, and immersive content creation.
 
 NEWS
 ======
@@ -21,8 +21,10 @@ NEWS
 SELECTED PUBLICATIONS
 ======
 
-**2025**
+**2026**
 - Weiyu Zhao, Chenyang Wang, Liangxiao Hu, **Zonglin Li**, Wei Yu, Shengping Zhang. DialoGen: Towards Dialog Gesture Generation via Identity-Decoupled Style Guidance in Interactive Diffusion Model. *AAAI 2026 **Oral*** 
+
+**2025**
 - Sizhe Zhao, Chenyang Wang, Weiyu Zhao, **Zonglin Li**, Ming Li, Shengping Zhang. REA-Listener: Real-Time Listening Head Generation with Dynamic Emotion Modeling and Flexible Modality Adaptation. *ACM MM 2025*
 - **Zonglin Li**, Xiaoqian Lv, Qinglin Liu, Quanling Meng, Xin Sun, Shengping Zhang. ProsodyTalker: 3D Visual Speech Animation via Prosody Decomposition.  *AAAI 2025 **Oral***
 - Xianzhu Liu, Xin Sun, Haozhe Xie, **Zonglin Li**, Ru Li, Shengping Zhang. Multi-view Consistent 3D Panoptic Scene Understanding. *AAAI 2025*
