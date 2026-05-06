@@ -7,21 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 👋 I am a Lecturer in the [School of Computing at Harbin Institute of Technology](https://computing.hit.edu.cn/), working with Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping). I received my Ph.D. from [Harbin Institute of Technology](https://www.hit.edu.cn/) under the supervision of Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping), and my M.S. from the [University of Pittsburgh](https://www.engineering.pitt.edu/) under the supervision of Prof. [Zhihong Mao](https://www.engineering.pitt.edu/people/faculty/zhi-hong-mao/). I also serve as a ***master's supervisor***, guiding graduate students in their research. My research focuses on ***Multi-modal Learning***, ***Digital Humans***, ***Motion Synthesis and Video Generation***, aiming to advance AI techniques for cross-modal perception, realistic virtual human generation, and immersive content creation.
+Hi! 👋 I am a Lecturer in the [School of Computing at Harbin Institute of Technology](https://computing.hit.edu.cn/), working with Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping). I received my Ph.D. from [Harbin Institute of Technology](https://www.hit.edu.cn/) under the supervision of Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping), and my M.S. from the [University of Pittsburgh](https://www.engineering.pitt.edu/) under the supervision of Prof. [Zhihong Mao](https://www.engineering.pitt.edu/people/faculty/zhi-hong-mao/). My research focuses on ***Multi-modal Learning***, ***Digital Humans***, ***Motion Synthesis and Video Generation***, aiming to advance AI techniques for cross-modal perception, realistic virtual human generation, and immersive content creation.
+
+I am also looking for motivated master’s students to join my group, with research interests including digital humans and AI agents.
 
 NEWS
 ======
+- 2026.05:   One co-author paper is accepted by *SIGGRAPH 26*
 - 2025.11:   One co-author paper is accepted as **Oral** by *AAAI 26*
 - 2025.07:   One co-author paper is accepted by *ACM MM 25*
 - 2025.01:   I join the group of Prof. Shengping Zhang at *HIT*
-- 2024.12:   One first-author paper is accepted as **Oral** by *AAAI 25*
-- 2024.12:   One corresponding-author paper is accepted by *AAAI 25*
-- 2024.12:   Two co-author papers are accepted by *AAAI 25*
 
 SELECTED PUBLICATIONS
 ======
 
 **2026**
+- Yipengjing Sun, Shengping Zhang, Chenyang Wang, Shunyuan Zheng, **Zonglin Li**, Xiangyang Ji. Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis. *SIGGRAPH 2026*
 - Weiyu Zhao, Chenyang Wang, Liangxiao Hu, **Zonglin Li**, Wei Yu, Shengping Zhang. DialoGen: Towards Dialog Gesture Generation via Identity-Decoupled Style Guidance in Interactive Diffusion Model. *AAAI 2026 **Oral*** 
 
 **2025**
